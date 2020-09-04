@@ -83,10 +83,12 @@ We were interested to see which are the most important predictor variables for o
 
 
 # VII Future Work:<br/>
-> Web scrapping<br/>
-> Use json files instead of csv<br/>
-> Sentiment analysis/ Text mining on features like 'blurb' and  'name' <br/>                      
+> Web scrapping <br/>
+> Use json files instead of csv <br/>
+> Sentiment analysis/ Text mining on features like blurb and name <br/>                      
 > Better business models post discussions with Kickstarter Team<br/>
 > Prediction using Random effect Bayesian models<br/>
 > Generate new features from 'Comments'<br/>
 
+### Team Members:<br/>
+This was a group effort involving Divya,Radhika Singh Ghelot, Rebha and Niharika Tyagi
