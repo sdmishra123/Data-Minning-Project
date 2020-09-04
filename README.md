@@ -60,10 +60,10 @@ Given that we dealing with a classification problem where we have to predict if 
 
 The below image shows the model performance for the top 5 models that were fitted. Among all the models Adaptive Boosting performed the best for 80%-20% train-test data spilt. With 94.6% AUC and the Recall rate was noted as 93%.<br/>
 
-![alt text](https://github.com/sdmishra123/Data-Minning-Project/blob/master/Model Perf.JPG)<br/>
+![alt text](https://github.com/sdmishra123/Data-Minning-Project/blob/master/Model%20Perf.JPG)<br/>
 
 We were interested to see which are the most important predictor variables for our model showing the positive and negative correlation with the response.<br/>
-![alt text](https://github.com/sdmishra123/Data-Minning-Project/blob/master/Best Predictors.JPG)<br/>
+![alt text](https://github.com/sdmishra123/Data-Minning-Project/blob/master/Best%20Predictors.JPG)<br/>
 
 # Conclusion: <br/>
 ### Some of the key conclusion<br/>
