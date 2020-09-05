@@ -1,4 +1,4 @@
-# Predict if the Future Kicstarter Campaigns would be a sucess or unsucessful
+# Predict if the Future Kicstarter Campaigns would be sucessful or unsucessful
 
 Background:
 Kickstarter is an American public benefit corporation based in Brooklyn, New York, that maintains a global crowdfunding platform focused on creativity.The company's stated mission is to "help bring creative projects to life".<br/>
