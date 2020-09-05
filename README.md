@@ -17,7 +17,8 @@ This model traces its roots to subscription model of arts patronage, where artis
 This project collated and analyzed Kickstarter Campaign data  to construct a model that would predict the success or failure of a campaign at launch time.<br/>
 
 Existing problem: The Kickstarter campaign failiure rate is high that would potentially lead to loss of commission associated with each campaign.<br/>
-Being a data scientist we would like to help Kickstarter by building a model that would correctly predict the sucessful campaigns and Kickstarter would ask investors to invest on these campaigns.
+
+Being a data scientist we would like to help Kickstarter by building a model that would correctly predict the sucessful campaigns and maximize their commission.
 
 ![alt text](https://github.com/sdmishra123/Data-Minning-Project/blob/master/PS.JPG)<br/>
 
