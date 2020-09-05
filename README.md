@@ -10,7 +10,7 @@ As of December 2019, Kickstarter has received more than $4.6 billion in pledges 
 People who back Kickstarter projects are offered tangible rewards or experiences in exchange for their pledges. <br/>
 This model traces its roots to subscription model of arts patronage, where artists would go directly to their audiences to fund their work. <br/>
 
-### For every sucessful campaign Kickstarter gets a 5% commission.<br/>
+### For every sucessful campaign Kickstarter gets 5% commission.<br/>
 
 # Business Use Case:<br/>
 
