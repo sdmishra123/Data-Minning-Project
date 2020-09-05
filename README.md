@@ -1,13 +1,16 @@
 # Predict if the Future Kicstarter Campaigns would be sucessful or unsucessful
 
 Background:
-Kickstarter is an American public benefit corporation based in Brooklyn, New York, that maintains a global crowdfunding platform focused on creativity.The company's stated mission is to "help bring creative projects to life".<br/>
+Kickstarter is an American public benefit corporation based in Brooklyn, New York, that maintains a global crowdfunding platform focused on creativity.<br/>
+
+The company's stated mission is to "help bring creative projects to life".<br/>
+
 As of December 2019, Kickstarter has received more than $4.6 billion in pledges from 17.2 million backers to fund 445,000 projects, for the 9 major categories such as films, music, stage shows, comics, journalism, video games, technology, publishing, and food-related projects. <br/>
 
 People who back Kickstarter projects are offered tangible rewards or experiences in exchange for their pledges. <br/>
 This model traces its roots to subscription model of arts patronage, where artists would go directly to their audiences to fund their work. <br/>
 
-For every sucessful campaign Kickstarter gets a 5% commission.
+For every sucessful campaign Kickstarter gets a 5% commission.<br/>
 
 # Business Use Case:<br/>
 
