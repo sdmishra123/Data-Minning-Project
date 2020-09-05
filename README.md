@@ -40,17 +40,18 @@ Columns : 22<br/>
 # I Exploratory Data Analysis:<br/>
 ### Below are the some key data insights.
 
-Crowdfunding has been very popular within US, so we narrowed down our analysis to US region
+Crowdfunding has been very popular within US, so we narrowed down our analysis only to US region
 ![alt text](https://github.com/sdmishra123/Data-Minning-Project/blob/master/EDA%201.JPG)<br/>
 
-We wanted to see how our Response looks like for the various campaign categories. We observed slight data imbalance under the various Campaign Categories. But there are no major concerns as we can fit the model for the given data distribution.
+We wanted to see how our Response looks like for the various campaign categories. <br/> 
+We observed slight data imbalance under the various Campaign Categories. But there are no major concerns as we can fit the model for the given data distribution.<br/>
 ![alt text](https://github.com/sdmishra123/Data-Minning-Project/blob/master/EDA%202.JPG)<br/>
 
 # II Feature Engineering:<br/>
 ![alt text](https://github.com/sdmishra123/Data-Minning-Project/blob/master/FE.JPG)<br/>
 
 # III Proposed Models:<br/>
-Given that we dealing with a classification problem where we have to predict if a campaign would be sucessful or no, we propose the below models:<br/>
+Given that we dealing here with a classification problem where we have to predict if a campaign would be sucessful or unsucessful, we propose the below models:<br/>
 > 1.Logistic Regression<br/>
 > 2.Random Forest <br/>
 > 3.Boosting Models  <br/>
@@ -62,7 +63,9 @@ Given that we dealing with a classification problem where we have to predict if 
 > F1 score <br/>
 > AUC  <br/>
 
-The below image shows the model performance for the top 5 models that were fitted. Among all the models Adaptive Boosting performed the best for 80%-20% train-test data spilt. With 94.6% AUC and the Recall rate was noted as 93%.<br/>
+The below image shows the model performance for the top 5 models that were fitted. Among all the models "Adaptive Boosting" performed the best for 80%-20% train-test data spilt. <br/>
+
+### With 94.6% AUC and the Recall rate was noted as 93%.<br/>
 
 ![alt text](https://github.com/sdmishra123/Data-Minning-Project/blob/master/Model%20Perf.JPG)<br/>
 
